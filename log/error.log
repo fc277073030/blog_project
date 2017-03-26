@@ -1,0 +1,8 @@
+2017-03-24 23:22:20,234 [Thread-120:36668] [blog.views:94] [views:tag] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-03-24 23:22:20,486 [Thread-121:36672] [blog.views:94] [views:tag] [ERROR]- Tag matching query does not exist.
+2017-03-24 23:22:22,963 [Thread-122:36676] [blog.views:94] [views:tag] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-03-24 23:22:23,305 [Thread-123:36716] [blog.views:94] [views:tag] [ERROR]- Tag matching query does not exist.
+2017-03-24 23:28:23,618 [Thread-138:39604] [blog.views:94] [views:tag] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-03-24 23:28:23,872 [Thread-139:39600] [blog.views:94] [views:tag] [ERROR]- Tag matching query does not exist.
+2017-03-24 23:28:34,322 [Thread-143:39812] [blog.views:94] [views:tag] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-03-24 23:28:34,571 [Thread-144:39820] [blog.views:94] [views:tag] [ERROR]- Tag matching query does not exist.
